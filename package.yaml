@@ -1,0 +1,14 @@
+version: ""
+Name: "NCAP"
+Description: "NGC demo Cloud AI Pkg"
+ID: ""
+Train:
+  - Collections:
+    - Collection:
+        - Model:
+        - Container:
+Deploy:
+   - Collections:
+       - Collection:
+           - Model:
+           - Container:
